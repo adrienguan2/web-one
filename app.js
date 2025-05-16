@@ -1,6 +1,6 @@
-document.getElementById("clickMe").addEventListener("click", function() {
-    alert("Hello! You clicked the button.");
-});
+// document.getElementById("clickMe").addEventListener("click", function() {
+//     alert("Hello! You clicked the button.");
+// });
 
 const magicTarget = document.getElementById("basicText");
 const magicButton = document.getElementById("magicButton");
